@@ -1,16 +1,38 @@
-# The Walipa Foundation: Membership Values & Accountability
+# Walipa Core Values
 
-## 1. Stewardship of the Living Planet
-We recognize that we are not owners of the Earth, but part of a Living Planet (Walipa). Our mission is to move from extraction to restoration.
+## Radical Generosity
+We believe in the 99% rule for extreme 
+wealth holders. To participate in the 
+healing of the planet, those who have 
+extracted the most must lead the way in 
+returning resources to the commons.
 
-## 2. The Ethics Firewall
-Technology developed by Walipa—including the Sentinel Membrane—shall never be used to facilitate war, ethnic cleansing, or the arms industry. We prioritize collaboration with indigenous stewards and B-Corps over traditional corporate interests.
+## Environmental Integrity
+We do not platform or partner with any 
+entity that contributes to the destruction 
+of the ecology. If a technology or 
+product poisons the soil, the water, 
+or the people, it has no place in the 
+Walipa ecosystem.
 
-## 3. Biological Integrity (Non-Toxicity)
-We commit to replacing toxic, petroleum-based permanence with biological grace. Our building blocks are mycelium and minerals, ensuring that even if a child—or a cow—nibbles on our materials, they are nourished, not poisoned.
+## Pure Production
+We advocate for beauty and health 
+products that are entirely free of 
+neurotoxins and endocrine disruptors. 
+"Good production" is the only production 
+allowed to participate in our commerce 
+flows.
 
-## 4. Radical Transparency
-Every commit to our code and every change to our values is public. We operate as a 'Human Team' where accountability is architected into our digital and physical infrastructure.
+## Traditional Wisdom
+We prioritize landrace seeds, permaculture, 
+and biodynamic agriculture. We protect the 
+botanical wisdom of our ancestors, 
+ensuring it remains free from patents 
+and corporate control.
 
-## 5. Ancestral Synergy
-We humbly seek to repatriate land and wisdom to the original stewards of the planet. The Walipa Land Trust exists to serve the continuity of indigenous heritage.
+## Transparency & Service
+Our organization exists to serve the 
+living planet. We maintain a lean, 
+transparent structure where the 
+restoration of the earth is the 
+only bottom line.
