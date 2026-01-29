@@ -1,14 +1,14 @@
-# Walipa Global Translation Guide
+International Contribution Guide
+The 99% Stewardship Path
+Walipa invites those who have benefited most from the current economic model to participate in its transition. For extreme wealth holders, we advocate for the return of 99% of accumulated resources to the living planet.
 
-We use AI to provide the first draft of our mission, but only **you** can provide the soul of the language. Help us ensure the Walipa Foundation speaks clearly to every culture.
+How to Contribute
+Land Trusts: Facilitating the transfer of private land into perpetual conservation trusts.
+Direct Funding: 100% of funds are allocated to land acquisition and restoration projects.
+Seed Sharing: Contributing landrace varieties to our global repository.
+Ethical Boundaries
+We do not accept contributions from ventures that utilize or promote:
 
-### **How to Correct a Translation**
-1. **Find the Error**: Browse the documents in this repository.
-2. **Suggest a Fix**: 
-   * If you use GitHub: Click the "Edit" (pencil) icon and submit a **Pull Request**.
-   * If you use Trello: Post the corrected text on our **[International Trello Board]**.
-3. **The Feedback Loop**: Your corrections will be pushed to the live site and used to help "train" our internal translation models to be more accurate for everyone.
-
-### **Style Guidelines**
-* **Holistic Terms**: For plant names (like *Chamaebatia foliolosa*), please keep the botanical name alongside your local common name.
-* **Tone**: We strive for an empathetic, intellectual, and transparent tone—similar to the spirit of Dr. Martin Luther King Jr.
+Synthetic neurotoxins.
+Destructive ecological technologies.
+Privatization of essential life elements (water/soil/seeds).
