@@ -16,7 +16,7 @@ The song serves as a cultural protocol for our mission:
 ## 📖 Access the Lyrics & Version History
 The full modernized text (English and German), along with the historical "upstream" versions from 1795 and 1844, are maintained in our dedicated poetry repository.
 
-### [View the Anthem Repository](https://github.com/LowellMontgomery/Is-There-for-Honest-Poverty---Robert-Burns-)
+### [View the Anthem](https://github.com/LowellMontgomery/Is-There-for-Honest-Poverty---Robert-Burns-)
 
 ## 🎼 Call to Artists
 We treat this anthem as **Open Source**. We invite musicians, singers, and translators within the Walipa community to:
