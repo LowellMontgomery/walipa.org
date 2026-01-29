@@ -1,22 +1,22 @@
-# 🎵 The Walipa Anthem: Is There for Honest Poverty 
+# 🎵 The Walipa Anthem: Is There for Honest Poverty
 
 > "The pith o’ Sense an’ pride o’ Worth / Are higher rank than a’ that."
 
 ## 🌎 Connection to Walipa
-At the heart of **Walipa (We Are the Living Planet)** is the conviction that value is inherent in life itself, not in titles, wealth, or human-centric hierarchies. 
+At the heart of **Walipa (We Are the Living Planet)** is the conviction that value is inherent in consciousness itself, not in titles, wealth, or human-centric hierarchies. 
 
-This anthem is a 2026 modernization of Robert Burns’ classic 1795 poem. While the original was a revolutionary cry for the dignity of the "common man," this adaptation extends that circle of dignity to **every living soul**—human and non-human alike.
+This anthem is a 2026 modernization of Robert Burns’ classic 1795 poem. While the original was a revolutionary cry for the dignity of the "common man," this adaptation extends that circle of dignity to **every consciousness**—honoring the "gold" of awareness wherever it resides.
 
 ## 🕊 Why This Song?
 The song serves as a cultural protocol for our mission:
-* **The Gold vs. The Stamp:** Just as a coin's value is in the gold, not the official stamp, a planet's value is in its living systems, not its economic metrics.
-* **Independent Mind:** We celebrate the "folk o’ independent mind" who look beyond "tinsel show" to see the "pith o' sense" in our ecological reality.
-* **Universal Kinship:** The final vision—"That everyone the world o'er / Shall be as one"—is the ultimate goal of Walipa.
+* **The Gold vs. The Stamp:** Just as a coin's value is in the gold, not the official stamp, the value of existence is in its consciousness, not its economic or social metrics.
+* **Independent Mind:** We celebrate the "folk o’ independent mind" who look beyond "tinsel show" to see the inherent worth in our universal reality.
+* **Universal Kinship:** The final vision—"That consciousness the world o’er / Shall be as one"—is the ultimate goal of Walipa.
 
 ## 📖 Access the Lyrics & Version History
 The full modernized text (English and German), along with the historical "upstream" versions from 1795 and 1844, are maintained in our dedicated poetry repository.
 
-### [View the Anthem](https://github.com/LowellMontgomery/Is-There-for-Honest-Poverty---Robert-Burns-/blob/main/Is%20There%20for%20Honest%20Poverty.md)
+### [View the Anthem Lyrics](https://github.com/LowellMontgomery/Is-There-for-Honest-Poverty---Robert-Burns-/blob/main/Is%20there%20for%20Honest%20Poverty%20-%202026%20version)
 
 ## 🎼 Call to Artists
 We treat this anthem as **Open Source**. We invite musicians, singers, and translators within the Walipa community to:
