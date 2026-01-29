@@ -5,7 +5,9 @@ We are moving closer to the "Live" state for **Walipa.org**. Recent updates incl
 ### 🎵 Cultural Anchor: "Is There for Honest Poverty"
 The 2026 inclusive adaptation of Robert Burns' classic is now "feature-complete." After several iterative commits to refine the meter and ensure the light Scottish dialect remains accessible, the song is ready to serve as our central anthem.
 
-* **Primary Version:** [Link directly to your Song file here]
+
+### [View the Anthem](https://github.com/LowellMontgomery/Is-There-for-Honest-Poverty---Robert-Burns-/blob/main/Is%20There%20for%20Honest%20Poverty.md)
+
 * **Significance:** This version refactors the "Brotherhood of Man" into a kinship of all living beings, aligning with the Walipa mission.
 
 ### 🌐 Technical Progress: Drupal & Multi-Domain Rollout
