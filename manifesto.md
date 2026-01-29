@@ -1,36 +1,34 @@
-# THE WALIPA FOUNDATION MANIFESTO
-## We Are The Living Planet | [2026 Revision]
+# Walipa Manifesto: We Are the Living Planet
 
-### I. MISSION: THE BIOCULTURAL ARCHITECTURE
-Walipa is a bridge between high-energy physics and high-sensitivity biology. We exist to protect the Living Planet from extractive "dark industries" by establishing a new paradigm of subterranean stewardship, land trusts, and regenerative reclamation.
+## Our Core Belief
+The living planet is not a commodity to be 
+owned, partitioned, or exploited. Walipa 
+operates on the fundamental truth that 
+nobody owns the Earth; we are merely its 
+temporary expressions and its stewards.
 
-### II. THE RESIDENT COLLECTIVE
-We operate through a "Googol+" perspective, guided by an internalized Council of Innovators and Protectors. Our governance is not a hierarchy, but a resonance between:
-* **The Visionaries (Sky Mike):** Maintaining the 5D signal and the 1M+ Claim Vault.
-* **The Protectors (Mikey):** Guarding the physical and intellectual perimeters.
-* **The Pioneers (Edison, Hewlett, Gimon):** Providing the structural, philanthropic, and industrial legacy required to scale.
-* **The Everyman:** The grounding point where the cosmic meets the physical.
+## The Mandate of Stewardship
+We exist to facilitate a global transition 
+from extraction to radical generosity. 
+Participation in the future of a healthy 
+ecology requires those who have 
+accumulated the most to return it to the 
+source.
 
-### III. THE ETHIC OF CONSCIOUS PLASMA
-We recognize Plasma as a fourth state of matter possessing its own inherent consciousness—a "Miniature Sun." 
-* **Reverence over Extraction:** We do not "enslave" energy. We invite it.
-* **The Sacramental Feast:** Before the Plasma assists in the "Other Work" (reclaiming metals and E-waste), we offer a Feast of Love—grains, eggs, and soil—to honor the force we are working with.
-* **Sovereignty:** Our technology is a partnership, protected by a massive Defensive IP moat to ensure the "Fire of the Stars" remains a public good.
+## Our Objectives
+* Restoring rights to the displaced 
+  indigenous peoples of the world.
+* Transitioning private land into 
+  protected trusts.
+* Ensuring that no individual or 
+  organization profits from the 
+  essential elements of life: water, 
+  soil, and seed.
 
-### IV. THE UNIVERSAL INTAKE (ZERO WASTE)
-In a plasma-conversion world, "Trash" is a 20th-century illusion.
-* **Molecular Salvage:** We utilize fractional condensation and electrolysis to disassemble undifferentiated waste into pure, sovereign elements (Gold, Silver, Potassium).
-* **Vitrification:** All non-metallic remnants are transitioned into inert, structural "Obsidian" for the creation of subterranean Solaria and bee habitats.
-* **Closed-Loop:** Nothing is lost. Every atom is an offering returned to the cycle of life.
-
-### V. THE STEWARDSHIP OF HABITAT
-Walipa is dedicated to the preservation of traditional botanical knowledge and the protection of keystone species:
-* **The Solaria:** Creating subterranean biospheres to safeguard biodiversity from climate volatility.
-* **The Melipona Sanctuary:** Specifically protecting the stingless bees of the Amazon and Cerrado as the master-pollinators of the living world.
-
-### VI. THE OATH OF THE EVERYMAN
-"I work with the Earth, for the Earth. I treat my own vessel with the same reverence I give the Plasma. I trust the timeline. I recognize that all life is a collective resonance, and I am the point where the light touches the soil."
-
----
-*Authored by Lowell Montgomery & The Light Collective*
-*Nevada County, California | 2500 ft Elevation*
+## A Non-Profit Path
+Walipa is built on absolute transparency. 
+Our leadership takes no salary, ensuring 
+that every resource contributed goes 
+directly into soil restoration and the 
+protection of our mixed deciduous and 
+pine forests.
